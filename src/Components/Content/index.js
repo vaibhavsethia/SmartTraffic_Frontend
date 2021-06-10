@@ -1,5 +1,9 @@
 import React, { Component } from 'react'
 import { Switch, Route } from 'react-router-dom';
+import Home from '../Home'
+import Developers from '../Developers'
+import About from '../About'
+import Working from '../Working'
 
 export class index extends Component {
   render() {

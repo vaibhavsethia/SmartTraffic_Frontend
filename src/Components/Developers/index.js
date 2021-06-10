@@ -4,7 +4,7 @@ export class index extends Component {
   render() {
     return (
       <div>
-        
+        Devs
       </div>
     )
   }
