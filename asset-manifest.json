@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/SmartTraffic_Frontend/static/css/main.dde4200a.chunk.css",
+    "main.js": "/SmartTraffic_Frontend/static/js/main.e6a7e1f9.chunk.js",
+    "main.js.map": "/SmartTraffic_Frontend/static/js/main.e6a7e1f9.chunk.js.map",
+    "runtime-main.js": "/SmartTraffic_Frontend/static/js/runtime-main.11455ebf.js",
+    "runtime-main.js.map": "/SmartTraffic_Frontend/static/js/runtime-main.11455ebf.js.map",
+    "static/css/2.98091658.chunk.css": "/SmartTraffic_Frontend/static/css/2.98091658.chunk.css",
+    "static/js/2.23738060.chunk.js": "/SmartTraffic_Frontend/static/js/2.23738060.chunk.js",
+    "static/js/2.23738060.chunk.js.map": "/SmartTraffic_Frontend/static/js/2.23738060.chunk.js.map",
+    "index.html": "/SmartTraffic_Frontend/index.html",
+    "static/css/2.98091658.chunk.css.map": "/SmartTraffic_Frontend/static/css/2.98091658.chunk.css.map",
+    "static/css/main.dde4200a.chunk.css.map": "/SmartTraffic_Frontend/static/css/main.dde4200a.chunk.css.map",
+    "static/js/2.23738060.chunk.js.LICENSE.txt": "/SmartTraffic_Frontend/static/js/2.23738060.chunk.js.LICENSE.txt",
+    "static/media/Img1.3d92d4a1.jpg": "/SmartTraffic_Frontend/static/media/Img1.3d92d4a1.jpg",
+    "static/media/Img2.9939df2a.jpg": "/SmartTraffic_Frontend/static/media/Img2.9939df2a.jpg",
+    "static/media/Img3.3962859a.jpg": "/SmartTraffic_Frontend/static/media/Img3.3962859a.jpg",
+    "static/media/Img4.759428af.jpg": "/SmartTraffic_Frontend/static/media/Img4.759428af.jpg",
+    "static/media/Logo.fe701c08.png": "/SmartTraffic_Frontend/static/media/Logo.fe701c08.png",
+    "static/media/Traffic.cb59a471.jpeg": "/SmartTraffic_Frontend/static/media/Traffic.cb59a471.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11455ebf.js",
+    "static/css/2.98091658.chunk.css",
+    "static/js/2.23738060.chunk.js",
+    "static/css/main.dde4200a.chunk.css",
+    "static/js/main.e6a7e1f9.chunk.js"
+  ]
+}
