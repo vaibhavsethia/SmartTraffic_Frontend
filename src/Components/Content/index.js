@@ -8,7 +8,7 @@ import Working from '../Working'
 export class index extends Component {
   render() {
     return (
-      <div>
+      <div style={{minHeight:'77vh'}}>
         <Switch>
           <Route exact path="/" component={Home}/>
           <Route exact path="/about" component={About}/>
