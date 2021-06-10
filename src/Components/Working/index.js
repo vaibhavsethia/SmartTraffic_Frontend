@@ -25,7 +25,7 @@ export class index extends Component {
   }
 
   ProcessValues(){
-    
+
   }
   
   render() {
@@ -46,7 +46,7 @@ export class index extends Component {
               Input Number of cars on each side of the intersection
             </div>
             <Row className="pt3" justify="center" align="middle">
-              <Col className="f4" lg={1}>
+              <Col className="f4" lg={2}>
                 Side-1: 
               </Col>
               <Col lg={6}>
@@ -54,7 +54,7 @@ export class index extends Component {
               </Col>
             </Row>
             <Row className="pt3" justify="center" align="middle">
-              <Col className="f4" lg={1}>
+              <Col className="f4" lg={2}>
                 Side-2: 
               </Col>
               <Col lg={6}>
@@ -62,7 +62,7 @@ export class index extends Component {
               </Col>
             </Row>
             <Row className="pt3" justify="center" align="middle">
-              <Col className="f4" lg={1}>
+              <Col className="f4" lg={2}>
                 Side-3: 
               </Col>
               <Col lg={6}>
@@ -70,7 +70,7 @@ export class index extends Component {
               </Col>
             </Row>
             <Row className="pt3" justify="center" align="middle">
-              <Col className="f4" lg={1}>
+              <Col className="f4" lg={2}>
                 Side-4: 
               </Col>
               <Col lg={6}>
@@ -84,7 +84,7 @@ export class index extends Component {
               Input Image of each side of the intersection
             </div>
             <Row className="pt3" justify="center" align="middle">
-              <Col className="f4" lg={1}>
+              <Col className="f4" lg={2}>
                 Side-1: 
               </Col>
               <Col lg={3}>
@@ -94,7 +94,7 @@ export class index extends Component {
               </Col>
             </Row>
             <Row className="pt3" justify="center" align="middle">
-              <Col className="f4" lg={1}>
+              <Col className="f4" lg={2}>
                 Side-2: 
               </Col>
               <Col lg={3}>
@@ -104,7 +104,7 @@ export class index extends Component {
               </Col>
             </Row>
             <Row className="pt3" justify="center" align="middle">
-              <Col className="f4" lg={1}>
+              <Col className="f4" lg={2}>
                 Side-3: 
               </Col>
               <Col lg={3}>
@@ -114,7 +114,7 @@ export class index extends Component {
               </Col>
             </Row>
             <Row className="pt3" justify="center" align="middle">
-              <Col className="f4" lg={1}>
+              <Col className="f4" lg={2}>
                 Side-4: 
               </Col>
               <Col lg={3}>
