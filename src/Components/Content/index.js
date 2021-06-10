@@ -11,10 +11,10 @@ export class index extends Component {
     return (
       <div className="content">
         <Switch>
-          <Route exact path="/" component={Home}/>
-          <Route exact path="/about" component={About}/>
-          <Route exact path="/working" component={Working}/>
-          <Route exact path="/dev" component={Developers}/>
+          <Route exact path="/SmartTraffic_Frontend/" component={Home}/>
+          <Route exact path="/SmartTraffic_Frontend/about" component={About}/>
+          <Route exact path="/SmartTraffic_Frontend/working" component={Working}/>
+          <Route exact path="/SmartTraffic_Frontend/dev" component={Developers}/>
         </Switch>
       </div>
     )

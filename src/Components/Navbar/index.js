@@ -26,16 +26,16 @@ export class Navbar extends Component {
           mode='horizontal'
           defaultSelectedKeys='1'
         >
-          <Menu.Item key='1' onClick={() => this.props.history.push('/')}>
+          <Menu.Item key='1' onClick={() => this.props.history.push('/SmartTraffic_Frontend/')}>
             <a>Problem</a>
           </Menu.Item>
-          <Menu.Item key='2' onClick={() => this.props.history.push('/about')}>
+          <Menu.Item key='2' onClick={() => this.props.history.push('/SmartTraffic_Frontend/about')}>
             <a>Solution</a>
           </Menu.Item>
-          <Menu.Item key='3' onClick={() => this.props.history.push('/working')}>
+          <Menu.Item key='3' onClick={() => this.props.history.push('/SmartTraffic_Frontend/working')}>
             <a>Working</a>
           </Menu.Item>
-          <Menu.Item key='4' onClick={() => this.props.history.push('/dev')}>
+          <Menu.Item key='4' onClick={() => this.props.history.push('/SmartTraffic_Frontend/dev')}>
             <a>Developers</a>
           </Menu.Item>
         </Menu>
