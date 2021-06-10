@@ -1,0 +1,20 @@
+.ant-collapse {
+  background: none !important;
+  border: none !important;
+  font-size: 16px !important;
+}
+.ant-collapse > .ant-collapse-item {
+  border-bottom: none !important;
+}
+.ant-collapse-header{
+  font-weight: 500 !important;
+}
+.ant-collapse-content {
+  padding-left: 25px;
+  color: rgba(0, 0, 0, 0.85);
+  background-color: transparent !important;
+  border-top: none !important;
+}
+.ant-collapse-content > .ant-collapse-content-box {
+  padding: 8px !important;
+}

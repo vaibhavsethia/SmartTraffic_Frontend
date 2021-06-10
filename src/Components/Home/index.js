@@ -8,7 +8,7 @@ export class index extends Component {
         <div className="tc f2 pa2">
           Smart Traffic Lights
         </div>
-        <Row justify="center f4 tc pa4">
+        <Row justify="center" className="f4 tc pa4">
           <Col lg={12}>
             <img className="shadow-2" src={Traffic}></img>
           </Col>
