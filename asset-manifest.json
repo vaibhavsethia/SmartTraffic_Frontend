@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SmartTraffic_Frontend/static/css/main.dde4200a.chunk.css",
-    "main.js": "/SmartTraffic_Frontend/static/js/main.e6a7e1f9.chunk.js",
-    "main.js.map": "/SmartTraffic_Frontend/static/js/main.e6a7e1f9.chunk.js.map",
+    "main.js": "/SmartTraffic_Frontend/static/js/main.d5cc7c13.chunk.js",
+    "main.js.map": "/SmartTraffic_Frontend/static/js/main.d5cc7c13.chunk.js.map",
     "runtime-main.js": "/SmartTraffic_Frontend/static/js/runtime-main.11455ebf.js",
     "runtime-main.js.map": "/SmartTraffic_Frontend/static/js/runtime-main.11455ebf.js.map",
     "static/css/2.98091658.chunk.css": "/SmartTraffic_Frontend/static/css/2.98091658.chunk.css",
@@ -24,6 +24,6 @@
     "static/css/2.98091658.chunk.css",
     "static/js/2.23738060.chunk.js",
     "static/css/main.dde4200a.chunk.css",
-    "static/js/main.e6a7e1f9.chunk.js"
+    "static/js/main.d5cc7c13.chunk.js"
   ]
 }
