@@ -27,10 +27,10 @@ export class Navbar extends Component {
           defaultSelectedKeys='1'
         >
           <Menu.Item key='1' onClick={() => this.props.history.push('/')}>
-            <a>Home</a>
+            <a>Problem</a>
           </Menu.Item>
           <Menu.Item key='2' onClick={() => this.props.history.push('/about')}>
-            <a>About</a>
+            <a>Solution</a>
           </Menu.Item>
           <Menu.Item key='3' onClick={() => this.props.history.push('/working')}>
             <a>Working</a>

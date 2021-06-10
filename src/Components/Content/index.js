@@ -4,11 +4,12 @@ import Home from '../Home'
 import Developers from '../Developers'
 import About from '../About'
 import Working from '../Working'
+import './Content.css'
 
 export class index extends Component {
   render() {
     return (
-      <div style={{minHeight:'77vh'}}>
+      <div className="content">
         <Switch>
           <Route exact path="/" component={Home}/>
           <Route exact path="/about" component={About}/>
